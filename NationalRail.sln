@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NationalRail", "NationalRail\NationalRail.csproj", "{DEEB2736-5210-47AA-AAE1-F1F2B12069CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEB2736-5210-47AA-AAE1-F1F2B12069CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEB2736-5210-47AA-AAE1-F1F2B12069CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEB2736-5210-47AA-AAE1-F1F2B12069CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEB2736-5210-47AA-AAE1-F1F2B12069CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59162E9-53B7-4DC4-BB31-9E2701004A60}
+	EndGlobalSection
+EndGlobal

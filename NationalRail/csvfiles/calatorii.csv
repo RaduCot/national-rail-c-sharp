@@ -1,0 +1,7 @@
+﻿id_calatorie,data_plecare,ora_plecare,data_sosire,ora_sosire,loc_plecare,loc_sosire,id_transport
+1245,12/16/2022,12:00:00,12/16/2022,14:00:00,Galati,Buzau,1641
+2351,10/12/2022,15:00:00,10/12/2022,17:00:00,Buzau,Bucuresti,2679
+3252,12/14/2022,10:00:00,12/14/2022,12:00:00,Buzau,Bucuresti,1641
+4125,12/14/2022,8:00:00,12/14/2022,10:00:00,Bucuresti,Buzau,1641
+5472,12/14/2022,10:00:00,12/14/2022,12:00:00,Buzau,Galati,1641
+6341,12/19/2022,17:00:00,12/19/2022,19:30:00,Galati,Buzau,2613
