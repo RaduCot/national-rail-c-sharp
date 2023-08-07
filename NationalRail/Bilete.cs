@@ -10,7 +10,7 @@ namespace NationalRail
     {
         string tableName = "BILETE"; //AMOGUS
         string identifier = "id_bilet"; //AMOGUS
-        string connectionString = "Server=aws.connect.psdb.cloud;Database=nationalrail;user=8nkamwr4mg3r220qby71;password=pscale_pw_GKLKnsX2kmZksbDnV5WKXKAk1myumGcreFNjQiptAJK;SslMode=VerifyFull;";
+                string connectionString = "Server=aws.connect.psdb.cloud;Database=nationalrail;user=nnf3u6g3l17a1icz0zin;password=pscale_pw_D2jE6akl9MKvIPHoT6spw0vatwQUaJLqy3MLwQ4z8sQ;SslMode=VerifyFull;";
         private void LoadDataFromDatabase()
         {
             string query = $"SELECT * FROM {tableName};";
